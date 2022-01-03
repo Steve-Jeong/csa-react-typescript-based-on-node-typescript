@@ -127,6 +127,6 @@ dist
 .pnp.*
 
 # snowpack react client
-client/.snowpack/
-client/build/
-client/node_modules/
+# client/.snowpack/
+# client/build/
+# client/node_modules/
