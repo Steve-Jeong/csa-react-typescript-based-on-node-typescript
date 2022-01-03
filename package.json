@@ -1,0 +1,23 @@
+{
+  "name": "022nodetypescriptcreatesnowpackapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steve-Jeong/node-typescript-devtainer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Steve-Jeong/node-typescript-devtainer/issues"
+  },
+  "homepage": "https://github.com/Steve-Jeong/node-typescript-devtainer#readme",
+  "dependencies": {
+    "create-snowpack-app": "^1.10.0"
+  }
+}
